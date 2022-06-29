@@ -1,2 +1,2 @@
-# qframe
-boomer-compliant youtube downloader
+# Qframe
+A boomer-compliant YouTube downloader.
